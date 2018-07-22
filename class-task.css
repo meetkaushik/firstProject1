@@ -1,0 +1,31 @@
+body{
+ background-image: url("http://kb4images.com/images/music-wallpapers/37270665-music-wallpapers.jpg");
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  background-position: 100%;
+  background-size: 600px;
+  
+
+}
+.a,.b{
+	background-color: blackN;
+	color: #fff;
+
+}
+.a{
+	opacity: 0.6;width: 500px;
+	padding: 40px;
+}
+.b{
+	opacity: 0.7;width: 500px;
+	padding: 40px;
+}
+#k{
+	font-family: 'Shrikhand', cursive;
+}
+button{
+	
+	padding:5px 10px;
+	border-radius:5px;
+	border:1px solid;
+}
